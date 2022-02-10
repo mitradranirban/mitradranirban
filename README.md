@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitradranirban
 - 👀 I’m interested in typography, python
-- 🌱 I’m currently learning scratch
+- 🌱 I’m currently learning scratchqt rpm paxkaging
 - 💞️ I’m looking to collaborate on Bangla font development
 - 📫 How to reach me mail me to ani AT atipra DOT in
 
