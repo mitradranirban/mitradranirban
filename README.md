@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitradranirban
 - 👀 I’m interested in typography, python
-- 🌱 I’m currently learning rpm packaging 
+- 🌱 I’m currently learning variable font creation using full open source tools.  ( @fontforge @fontra )
 - 💞️ I’m looking to collaborate on Bangla font development
 - 📫 How to reach me mail me to mitra_anirban AT yahoo DOT co DOT in
 [![Anirban's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitradranirban)](https://github.com/anuraghazra/github-readme-stats)
