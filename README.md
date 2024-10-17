@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning variable font creation using full open source tools.  ( @fontforge @fontra )
 - 💞️ I’m looking to collaborate on Indic font development
 
-  ![Screenshot_20241018-001214](https://github.com/user-attachments/assets/92501d1d-5a9d-4b76-909f-5f8745d1c752)
+![IMG_20241018_001253](https://github.com/user-attachments/assets/6d9a68a0-5605-4a4a-9c30-6fd4e26bf6bf)
 
 - 📫 How to reach me mail me to !
 mitra_anirban AT yahoo DOT co DOT in
